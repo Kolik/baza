@@ -1,7 +1,7 @@
 <?php
 /**
  * Application requirement checker script.
- *
+ *sadf
  * In order to run this script use the following console command:
  * php requirements.php
  *
